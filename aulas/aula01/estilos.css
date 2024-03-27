@@ -1,0 +1,14 @@
+html {
+    width:100%;
+}
+
+#titulo {
+    font-size: 24em;
+    color:blue;
+}
+
+.justificado {
+    text-align: justify;
+    font-size: 12em;
+    color: red;
+}

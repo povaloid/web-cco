@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    border:black;
+    color: #232d36;
+    container-type: flex;
+}
+
+header {
+    margin-left: 8px;
+    margin-right: 8px;
+    flex: 1;
+    color: #232d36;
+    container-type: flex;
+    
+}
